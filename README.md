@@ -13,4 +13,3 @@ Simply start/stop yours AutoHotKey scripts
 ## Related
 
 * [Cerebro](http://github.com/KELiON/cerebro) – main repo for Cerebro app;
-* [Git.io](https://git.io/) – the reason this exists.
