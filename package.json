@@ -1,7 +1,7 @@
 {
   "name": "ahk-manager",
   "author": "Filipe Studt",
-  "repository": "https://github.com/filipestudt/cerebro-custom-command",
+  "repository": "https://github.com/filipestudt/cerebro-ahk-manager",
   "version": "0.1.0",
   "dependencies": {
     "cerebro-tools": "^0.1.8",
@@ -15,8 +15,9 @@
   "keywords": [
     "cerebro",
     "cerebro-plugin",
-    "command",
-    "create"
+    "ahk",
+    "autohotkey",
+    "manager"
   ],
   "scripts": {
     "start": "cerebro-scripts start",
