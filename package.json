@@ -1,0 +1,28 @@
+{
+  "name": "ahk-manager",
+  "author": "Filipe Studt",
+  "repository": "https://github.com/filipestudt/cerebro-custom-command",
+  "version": "0.1.0",
+  "dependencies": {
+    "cerebro-tools": "^0.1.8",
+    "cerebro-ui": "^0.0.16",
+    "node-cmd": "^3.0.0"
+  },
+  "devDependencies": {
+    "cerebro-scripts": "0.0.25"
+  },
+  "main": "dist/index.js",
+  "keywords": [
+    "cerebro",
+    "cerebro-plugin",
+    "command",
+    "create"
+  ],
+  "scripts": {
+    "start": "cerebro-scripts start",
+    "build": "cerebro-scripts build",
+    "test": "cerebro-scripts test",
+    "clear": "cerebro-scripts clear",
+    "prepublish": "yarn clear && yarn build"
+  }
+}
