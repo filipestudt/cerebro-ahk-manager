@@ -1,5 +1,5 @@
 # cerebro-ahk-manager
-Simply start/stop yours AutoHotKey scripts
+Simply start/stop your AutoHotKey scripts
 
 ## Usage
 
